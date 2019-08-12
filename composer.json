@@ -51,7 +51,6 @@
     "marcj/topsort": "~1.1",
     "phpoffice/phpword": "^0.15.0",
     "pear/validate_finance_creditcard": "dev-master",
-    "civicrm/civicrm-cxn-rpc": "~0.19.01.08",
     "pear/auth_sasl": "1.1.0",
     "pear/net_smtp": "1.6.*",
     "pear/net_socket": "1.0.*",
